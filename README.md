@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have always enjoyed coding and have been taking frontend development course to convert my programming hobby into a career. I am just starting out in this field and also have a bachelors degree in mathematics and physics.
+I have always enjoyed coding and have been working on frontend development projects to convert my programming hobby into a career. I am just starting out in this field and also have a bachelors degree in mathematics and physics.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [shidelerk@gmail.com](mailto:shidelerk@gmail.com)
